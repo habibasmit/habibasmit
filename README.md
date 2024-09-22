@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN developer from Pakistan</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibasmit" alt="habibasmit" /></a> </p>
 
-<img align="center" alt="developer" width="400" src="https://sysdig.com/wp-content/uploads/BlogImages-DevelopersFatige-featured-v3.gif" />
+<img align="right" alt="developer" width="400" src="https://sysdig.com/wp-content/uploads/BlogImages-DevelopersFatige-featured-v3.gif" />
 
 - 🔭 I’m currently working on [quiz application](https://quizapplicationjavascript000000000000.netlify.app/)
 
