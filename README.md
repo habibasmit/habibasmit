@@ -1,7 +1,7 @@
 ![LOGO](https://github.com/habibasmit/habibasmit/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm HABIBA KALEEM</h1>
 <h3 align="center">A passionate MERN developer from Pakistan</h3>
-
+<img align="right" alt="developer" width="400" src="https://sysdig.com/wp-content/uploads/BlogImages-DevelopersFatige-featured-v3.gif" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibasmit" alt="habibasmit" /></a> </p>
 
 - 🔭 I’m currently working on [quiz application](https://quizapplicationjavascript000000000000.netlify.app/)
